@@ -1,0 +1,46 @@
+# Task 3: Learn Markdown
+
+## What is Markdown?
+
+Markdown is a simple language used to format text on GitHub.
+
+## Headings
+
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+
+## Text Formatting
+
+**Bold text**
+
+*Italic text*
+
+~~Strikethrough~~
+
+`Inline code`
+
+## Lists
+
+### Unordered List
+
+- Git
+- GitHub
+- Markdown
+
+### Ordered List
+
+1. Create a repository
+2. Make changes
+3. Commit changes
+4. Push changes
+
+## Links
+
+[GitHub](https://github.com)
+
+## Code
+
+```javascript
+console.log("Hello GitHub!");
